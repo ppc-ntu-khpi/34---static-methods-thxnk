@@ -5,4 +5,4 @@
 <img src="https://i.ibb.co/2txjv0Z/2021-01-25-101703.png" alt="2021-01-25-101703" border="0">
 
 ## Приклад виконання програми: 
-<img src="https://i.ibb.co/10Xb8ft/image.png" alt="image" border="0">
+<img src="https://i.ibb.co/x7wBqY9/image.png" alt="image" border="0">
